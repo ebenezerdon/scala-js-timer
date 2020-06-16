@@ -10,3 +10,4 @@ scalaJSUseMainModuleInitializer := true
 // mainClass in Compile := Some("Index.scala")
 
 libraryDependencies += "org.scala-js" %%% "scalajs-dom" % "1.0.0"
+libraryDependencies += "com.lihaoyi" %%% "scalatags" % "0.9.1"
