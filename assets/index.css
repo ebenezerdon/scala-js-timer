@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+}
+
+.container {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: unset;
+}
+
+.nav {
+  background: linear-gradient(90deg, #04adad 0%, #00bdff);
+  color: #fff;
+  padding: 1.5em;
+}
+
+.nav .title {
+  font-size: 2em;
+}
+
+#timer {
+  font-size: 7em;
+  margin-top: 20%;
+}
