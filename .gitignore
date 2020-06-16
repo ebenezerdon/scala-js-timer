@@ -1,0 +1,10 @@
+/*/target/
+target/
+output/
+.metals/
+.bloop/
+*.iml
+.idea
+*.swp
+node_modules/
+package-lock.json
